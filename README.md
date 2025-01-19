@@ -36,7 +36,7 @@
                 </script>
                 <h2> LEVEL OF DIFFICULTY= easy peasy lemon squeezy <h2>
                     <br>
-                    <img src="C:\Users\planet\Downloads\Shrek.jpeg"  
+                    <img src="Shrek.jpeg"  
                     alt="sus guy" 
                     title="weird bald guy?!">
 

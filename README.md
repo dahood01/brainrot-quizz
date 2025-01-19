@@ -52,7 +52,7 @@
 
         <input type="radio" name="q1" value="skibidi toilet"> skibidi toilet<br>
          
-        <img src="C:\Users\planet\Downloads\mewing 🤫🧏.jpeg">
+        <img src="mewing 🤫🧏.jpeg">
 
         <!-- Question 2 -->
         <p>2. What is this? </p>

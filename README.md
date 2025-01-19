@@ -64,7 +64,7 @@
 
         <input type="radio" name="q2" value="idk"> idk<br>
 
-<img src="C:\Users\planet\Downloads\f4bc810d-5b96-4644-95a7-40935d1ef701.jpeg">
+<img src="f4bc810d-5b96-4644-95a7-40935d1ef701.jpeg">
 
     <!-- Question 3 -->
      <p>3. what is he doing? </p>
